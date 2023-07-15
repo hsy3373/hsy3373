@@ -6,7 +6,7 @@
 	<p>안녕하세요</p>
 	<p>열정 넘치는 카멜레온 신입 개발자입니다 :)</p>
 
- 	[블로그(바로가기)](https://hsy3373.github.io/)
+ 	<a href="https://hsy3373.github.io" target="_blank">블로그(바로가기)</a>
 </div>
 <br>
 <br>
