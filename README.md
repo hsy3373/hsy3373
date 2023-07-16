@@ -7,7 +7,17 @@
 	<p>열정 넘치는 카멜레온 신입 개발자입니다 :)</p>
 </div>
 <div align=center>
-	<a style="textalign:center;" href="https://hsy3373.github.io" target="_blank">- 블로그(바로가기)</a>
+	<a href="https://hsy3373.github.io" target="_blank">- 블로그(바로가기)</a>
+</div>
+<br>
+<br>
+<div align=center>
+	<h3>✨ Project</h3>
+	<br>
+	<a href="https://github.com/Opeaceful/Opeaceful" target="_blank">- Opeaceful : ERP 사내 그룹웨어 프로그램</a>
+	<br>
+	<br>
+	<a href="https://github.com/hsy3373/SEMI-MZ" target="_blank">- MZONE : 현실과 온라인의 연결공간 '메타버스' 사이트</a>
 </div>
 <br>
 <br>
